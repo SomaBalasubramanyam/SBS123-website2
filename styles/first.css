@@ -1,0 +1,93 @@
+.allfinal{
+    width: 300px;
+    
+    
+    object-fit: contain;
+    border-width: 1px;
+    border-style: solid;
+    border-color: gray;
+    object-position: center;
+    
+    
+    
+}
+
+
+.newtitle{
+width: 250px;
+}
+.anothertitle,.othertitle{
+width: 250px;
+
+display:block
+
+
+}.profilesone {
+display: inline-block;
+width:50px;
+object-fit: contain;
+vertical-align: top;
+
+
+
+}
+.profilestwo{
+display:inline-block;
+width: 200px;
+}
+
+.profilesthree{
+width: 50px;
+
+}
+.firstdiv{
+
+display: inline-block;
+vertical-align: top;
+margin-right: 50px;
+margin-left: 60px;
+padding-top: 90px;
+padding-left: 80px;
+
+
+position: relative;
+
+}
+.videotime1{
+    background-color: black; color: white;
+    position: absolute;
+    bottom: 130px;
+    right: 3px;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+.videotime2{
+    background-color: black; color: white;
+    position: absolute;
+    bottom: 170px;
+    right: 3px;
+}
+.videotime3{
+    background-color: black; color: white;
+    position: absolute;
+    bottom: 185px;
+    right: 3px;
+}
+.videotime4{
+    background-color: black; color: white;
+    position: absolute;
+    bottom: 150px;
+    right: 3px;
+}
+.videotime5{
+    background-color: black; color: white;
+    position: absolute;
+    bottom: 170px;
+    right: 3px;
+}
+.videotime6{
+    background-color: black; color: white;
+    position: absolute;
+    bottom: 185px;
+    right: 3px;
+}

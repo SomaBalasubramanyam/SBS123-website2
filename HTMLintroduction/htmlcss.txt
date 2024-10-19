@@ -1,0 +1,24 @@
+Chrome dev tools:computed,layout,styles,comapatibility.
+
+Css box models:-1)margin:spacing outside the button,2)padding:spacing inside the button
+ 
+
+ void elements in html means not requires a closing element 
+
+ img is the void element and it has a feature that height of the image adjusts based on the width changes,height doesnt need of special mention
+object-fit:cover emans the image should cover based on given width and height of image 
+
+if image is 400px actually and user mentioned width a 300px then the image covers 300px and rem 100px area is invisible
+
+object-fit:contain means the entire image is visible in give area
+
+css display properties are two types 
+
+block:all the block of lines are displayed one by one,it is applied by default 
+inline-block:all the blocked of lines are joined in a single line 
+
+div element is a container that can store other elements also like <p>,<img> etc...
+
+fr used in css grid which occupies the entire grid space remaining
+
+flexbox is similar to css grid but it is more flexible
